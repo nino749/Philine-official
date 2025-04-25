@@ -8,12 +8,12 @@ Currently usable models:
  - Llama3.2 (slow, but high accuracy)
 
 **Keep in mind that these bots run on my server, so it takes time for them to respond.
-Slow models are really slow. Often longer than 1-2 min.**
+Slow models are really slow - often taking longer than 1-2 min to respond.**
 
 ### Privacy policy
 We store your messages within the thread for 5 minutes. After that they will be permanently deleted.
 We also store your Discord usernames for 5 minutes for the context of the AI.
 The code is public on our Github.
 
-_**PhilineJS Is programmed in JS by game.crash and is currently being updated to PhilinePY.**_ <br>
+_**PhilineJS Is programmed in JS by game.crash and is currently being updated to the level of PhilinePY.**_ <br>
 _**PhilinePY Is programmed in PY by nino749 and is the latest model.**_
