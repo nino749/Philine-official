@@ -15,5 +15,5 @@ We store your messages within the thread for 5 minutes. After that they will be 
 We also store your Discord usernames for 5 minutes for the context of the AI.
 The code is public on our Github.
 
-@PhilineJS Is programmed in JS by @game.crash and is currently being updated to @PhilinePY.
-@PhilinePY Is programmed in PY by @nino749 and is the latest model.
+@PhilineJS Is programmed in JS by game.crash and is currently being updated to @PhilinePY.
+@PhilinePY Is programmed in PY by nino749 and is the latest model.
